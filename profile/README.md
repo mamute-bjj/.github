@@ -1,4 +1,4 @@
-# Mamute BJJ Guardian 🥋🦣
+# 🥋🦣 Mamute BJJ Guardian 
 
 Projeto para acompanhamento e gestão da graduação dos alunos em academias de Jiu-Jitsu, o projeto é voltado para facilitar o acompanhamento da evolução dos alunos no Jiu-Jitsu.
 
